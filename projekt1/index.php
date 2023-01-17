@@ -44,9 +44,10 @@
                 <p>Elcyklar och solkraft</p>
             </article>
 
-            <div> HEJ HEJ JAG, HAIST VITTU
-
-            <p> DET HÄR ÄR EN ny PARAGRAF</p>
+            <div>
+                <?php
+                print (date("Y/m/d"))
+                ?>    
             </div>
 
         </section>
