@@ -44,6 +44,8 @@
                 <p>Elcyklar och solkraft</p>
             </article>
 
+            <div> HEJ HEJ JAG, HAIST VITTU</div>
+
         </section>
 
         <!-- Footern innehåller t.ex. somelänkar och kontaktuppg -->
